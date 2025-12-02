@@ -1,3 +1,4 @@
-document.getElementById("clickMe").addEventListener("click", () => {
-  alert("Welcome to Tiny Homes!");
+// Button alert
+document.getElementById("learnMore").addEventListener("click", () => {
+  alert("Check out our gallery below to find your perfect tiny home!");
 });
