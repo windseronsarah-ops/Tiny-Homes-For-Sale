@@ -1,2 +1,2 @@
-# Tiny-Homes-For-Sale
-A modern tiny homes website 
+# Tiny Homes Website
+This is my tiny homes website project.
