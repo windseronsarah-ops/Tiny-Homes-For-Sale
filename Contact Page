@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Tiny Homes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>Contact Tiny Homes</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Get in Touch</h2>
+      <p>Have questions or want to know more? Fill out the form below or reach us at <strong>info@tinyhomes.com</strong>.</p>
+
+      <form>
+        <input type="text" placeholder="Your Name" required><br><br>
+        <input type="email" placeholder="Your Email" required><br><br>
+        <textarea placeholder="Your Message" required></textarea><br><br>
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Tiny Homes. All rights reserved.</p>
+  </footer>
+</body>
+</html>
