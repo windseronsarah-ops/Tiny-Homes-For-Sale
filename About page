@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - Tiny Homes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html" class="active">About Us</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>About Tiny Homes</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Our Mission</h2>
+      <p>We are passionate about helping people live efficiently in beautiful, affordable tiny homes. Our goal is to make sustainable living simple and enjoyable.</p>
+    </section>
+
+    <section>
+      <h2>Why Tiny Homes?</h2>
+      <p>Tiny homes reduce costs, environmental impact, and clutter. They allow you to focus on what truly matters: experiences, not things.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Tiny Homes. All rights reserved.</p>
+  </footer>
+</body>
+</html>
