@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
   <!-- Navigation -->
   <nav>
     <ul>
@@ -37,5 +38,6 @@
   <footer>
     <p>© 2025 Tiny Homes. All rights reserved.</p>
   </footer>
+
 </body>
 </html>
