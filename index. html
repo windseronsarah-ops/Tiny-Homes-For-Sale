@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tiny Homes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav>
+    <ul>
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>Tiny Homes</h1>
+    <p>Cozy, efficient living spaces that fit your lifestyle</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Discover Your Dream Tiny Home</h2>
+      <p>From modern tiny houses to classic cozy cabins, explore different options and find your perfect fit.</p>
+      <button id="learnMore">Learn More</button>
+    </section>
+
+    <section class="gallery">
+      <h2>Our Tiny Homes</h2>
+      <div class="images">
+        <img src="https://images.unsplash.com/photo-1595341885727-7c1c3a03f44e?auto=format&fit=crop&w=400&q=80" alt="Tiny House 1">
+        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=400&q=80" alt="Tiny House 2">
+        <img src="https://images.unsplash.com/photo-1560185127-6b9e69b7c7aa?auto=format&fit=crop&w=400&q=80" alt="Tiny House 3">
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Tiny Homes. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
