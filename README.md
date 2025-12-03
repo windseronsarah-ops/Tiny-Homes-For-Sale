@@ -24,4 +24,4 @@ Visit: [https://your-username.github.io/tiny-homes-website/](https://your-userna
 4. Commit changes to update live site
 
 ## 📞 Contact
-Replace contact info in the HTML file with your actual details!
++1 202 960 6920 
